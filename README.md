@@ -2,13 +2,13 @@
   <p align="center">
     <h1 align="center" >My profile</h1>
     <br>
-![9ea7023936d9e63f7cc62560b31b171ff25ea5e5](https://user-images.githubusercontent.com/88738134/208530777-deaa1b9c-e87f-47a6-81af-bdff383f027a.png)
-
     <div align="center">
    Hey there! I'm father_of_no. I'm currently learning Python and C# and working on a advanced minecraft mod creator.
     </div>
   </p>
   </div>
+  ![9ea7023936d9e63f7cc62560b31b171ff25ea5e5](https://user-images.githubusercontent.com/88738134/208530838-a9ac53dc-6dc4-4c6c-aed8-c82116193c01.png)
+
 <div>
   <h3 align="center">Languages I know<br></h3>
   <p align="center">
