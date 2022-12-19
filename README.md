@@ -2,7 +2,7 @@
   <p align="center">
     <h1 align="center" >My profile</h1>
     <br>
-    <p>![9ea7023936d9e63f7cc62560b31b171ff25ea5e5](https://user-images.githubusercontent.com/88738134/208530901-896b542f-72c0-41e0-bc6d-b03967e9991c.png)</p>
+  ![9ea7023936d9e63f7cc62560b31b171ff25ea5e5](https://user-images.githubusercontent.com/88738134/208531075-55c436cb-779d-4743-a735-65556960bad2.png)
     <div align="center">
    Hey there! I'm father_of_no. I'm currently learning Python and C# and working on a advanced minecraft mod creator.
     </div>
