@@ -3,7 +3,7 @@
     <h1 align="center" >My profile</h1>
     <br>
     <div align="center">
-   Hey there! I'm father_of_no. I'm currently learning Python and C#.
+   Hey there! I'm father_of_no. I'm currently learning Python and C# and working on a advanced minecraft mod creator.
     </div>
   </p>
   
