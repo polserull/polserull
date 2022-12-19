@@ -7,7 +7,7 @@
 <p> Also i am working on a minecraft mod creator for forge and fabric in C#<p>
 <h2> Social </h2>
 <p> You can find me at <a href="https://discordapp.com/users/615606223051554846"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a></img><a href="https://www.reddit.com/user/LateAppointment4942"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a></img><a href="https://twitter.com/fatherofno"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a></img></p>
-<p>Or fund me here <a href="default.asp"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a></img></p>
+<p>Or fund me here <a href="https://www.buymeacoffee.com/fatherofno"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a></img></p>
 
 
 
