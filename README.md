@@ -2,7 +2,8 @@
   <p align="center">
     <h1 align="center" >My profile</h1>
     <br>
-    ![R6S_Y7S4_ArtistBundle_PrimeGaming_Asset](https://user-images.githubusercontent.com/88738134/208530464-e4a3eb72-3739-49ea-b828-aa2ccf52e88a.png)
+![9ea7023936d9e63f7cc62560b31b171ff25ea5e5](https://user-images.githubusercontent.com/88738134/208530777-deaa1b9c-e87f-47a6-81af-bdff383f027a.png)
+
     <div align="center">
    Hey there! I'm father_of_no. I'm currently learning Python and C# and working on a advanced minecraft mod creator.
     </div>
