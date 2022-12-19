@@ -14,7 +14,6 @@
   <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="https://www.microsoft.com"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 </p>
-  ![9ea7023936d9e63f7cc62560b31b171ff25ea5e5](https://user-images.githubusercontent.com/88738134/208531206-d6727e05-f67d-48de-9737-822cb5c66f31.png)
 
   <hr>
 <details style="cursor: pointer;" open>
