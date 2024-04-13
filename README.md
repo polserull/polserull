@@ -1,5 +1,5 @@
 # Hi...
-Welcome to my profile i make small games and minecraft mods :D
+Welcome to my profile.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/polserull/count.svg)
