@@ -12,7 +12,7 @@
 <div align="center">
    
 <pre>
-   Minecraft, R6, Weather
+   Minecraft, R6, ☈
    <a href="https://ko-fi.com/polserull">KO-FI</a> / <a href="https://polserull.xyz">Website</a>
 </pre>
 
